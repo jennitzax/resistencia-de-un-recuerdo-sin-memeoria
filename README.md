@@ -4,6 +4,8 @@
 //EJERCICIO DE COMPOSICIÓN AUDIOVISUAL
 //EN MEMORIA A MIS SERES QUERIDXS ASESINADXS
 
+------------- ***** HECHO EN PROCESSING ***** --------------------
+
 VER VIDEO 
 
 https://www.youtube.com/watch?v=yZZ5jb9nIXo&ab_channel=Jennitza  
