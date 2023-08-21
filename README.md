@@ -1,4 +1,4 @@
-# resistencia-de-un-recuerdo-sin-memeoria
+# resistencia-de-un-recuerdo-sin-memoria
 //Jenny Maritza Ramirez Osorio
 
 //EJERCICIO DE COMPOSICIÓN AUDIOVISUAL
